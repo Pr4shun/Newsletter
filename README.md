@@ -1,2 +1,2 @@
 # Newsletter
-Email Newsletter
+Daily Email Newsletter
